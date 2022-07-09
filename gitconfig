@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = izwanrul11@gmail.com
+	name = Fairul Izwan
